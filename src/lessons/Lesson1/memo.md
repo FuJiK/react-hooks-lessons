@@ -1,4 +1,4 @@
 - 状態変数を格納するために使うのがuseStateというのが大体の人の理解
 - そこから踏み込んでいく
 ---------------------------------------------------
-- 
+- https://engineering.monstar-lab.com/jp/post/2022/05/27/Is-Virtual-DOM-Outdated/
